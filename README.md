@@ -7,4 +7,4 @@ Kita akan menganalisa:
   2. Bagaimana system menentukan apakah video tersebut trending atau tidak ?
   3. Video seperti apa yg masuk ke dalam kategori trending ?
 
-Sumber data dapat diambil dari https://www.kaggle.com/datasets/datasnaek/youtube-new
+Data source dapat diambil dari https://www.kaggle.com/datasets/datasnaek/youtube-new
