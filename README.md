@@ -1,6 +1,6 @@
-File ini adalah Data Analysis dari Trending YouTube Video Statistic untuk project Capstone 2.
+File ini adalah Data Analysis terkait Trending YouTube Video Statistic untuk project Capstone 2.
 
-Analysis ini dibuat dalam rangka membantu sebuah perusahaan dalam proses developmentnya terkait sebuah platform berbagi video dan diharapkan dapat mengatur strategi untuk mempromosikan platform mereka dan menarik berbagai macam viewer dan content creator dengan cepat.
+Analysis ini dibuat dalam rangka membantu sebuah perusahaan dalam proses developmentnya untuk sebuah platform berbagi video yg akan direlease oleh perusahaan tersebut dan diharapkan dapat mengatur strategi untuk mempromosikan platform mereka dan menarik berbagai macam viewer dan content creator dengan cepat.
 
 Kita akan menganalisa:
   1. Faktor-faktor apa saja yang membuat sebuah video itu menjadi trending ?
