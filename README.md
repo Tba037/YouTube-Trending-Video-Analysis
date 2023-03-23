@@ -8,3 +8,5 @@ Kita akan menganalisa:
   3. Video seperti apa yg masuk ke dalam kategori trending ?
 
 Data source dapat diambil dari https://www.kaggle.com/datasets/datasnaek/youtube-new
+
+Link Tableau : https://public.tableau.com/app/profile/theo.buna.aprilio/viz/Capstone2_16759297248230/Story1
